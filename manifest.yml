@@ -1,0 +1,7 @@
+---
+applications:
+- name: websock
+  memory: 64M
+  instances: 1
+  url: websock.cfapps.io
+  path: .
